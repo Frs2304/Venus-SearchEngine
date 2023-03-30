@@ -4,8 +4,9 @@
 
 
 ## Description
+Venus is a powerful search engine built with React.js that allows users to quickly and easily find information online. With its advanced indexing algorithms and intuitive user interface, Venus makes it easy for anyone to find the information they need, whether it's a web page, image, video, or document.
 
-Venus is a custom search engine powered by Google that offers users a seamless browsing experience by providing highly relevant search results and intuitive search features.
+The search functionality is powered by the Google API, which provides fast and accurate search results. Venus also supports various search operators, such as quotes, wildcards, and Boolean operators, and allows users to filter results by file type, date, or location. Additionally, the search suggestions and auto-complete feature make it even easier to find the desired information.
 
 
 ## Authors

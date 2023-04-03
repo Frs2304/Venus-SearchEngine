@@ -11,7 +11,9 @@ Venus is a powerful search engine built with React.js that allows users to quick
 
 ## How to Use
 
-    Simply go to the Venus search engine website and enter your search query in the search box. You can use search operators to refine your search and filter your results by       file type, date, or location. The search suggestions and auto-complete feature make it even easier to find the desired information.
+    Simply go to the Venus search engine website and enter your search query in the search box.
+    You can use search operators to refine your search and filter your results by file type, date, or location.
+    The search suggestions and auto-complete feature make it even easier to find the desired information.
 
 ## Technologies Used
 

@@ -40,3 +40,11 @@
     margin-top: 0px;
     margin: 0px 0px;
 }
+.SearchPage__resultCount {
+    color: #70757a;
+    font-size: 14px;
+}
+.SearchPage__result {
+    margin: 40px 0px;
+    
+}

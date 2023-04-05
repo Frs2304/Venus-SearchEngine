@@ -56,6 +56,21 @@ const SearchPage = () => {
           </div>
         </div>
       </div>
+      <div className="SearchPage__results">
+        <p className="SearchPage__resultCount">
+          About 8,880,000 results in (0.57) seconds for amazon
+        </p>
+        <div className="SearchPage__result">
+          <a href="" className="SearchPage__resultLink">
+            <img src=""/>
+            github.com
+          </a>
+          <a href="" className="SearchPage__resultTitle">
+            <h2>Tushar Mishra</h2>
+          </a>
+          <p className='SearchPage__resultDescription'>Hi this is me!</p>
+        </div>
+      </div>
     </div>
   )
 }

@@ -6,11 +6,21 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import Search from './components/Search.jsx'
+import Results from './components/Results.jsx'
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App/>,
+  },
+  {
+    path: "/search",
+    element: <Search />
+  },
+  {
+    path: "['/search','/images','/news','/videos']",
+    element: <Results/>
   },
 ]);
 

@@ -11,7 +11,7 @@ Venus is a powerful search engine built with React.js that allows users to quick
 
 ## Technologies
 
-BookStore is built using the following technologies:
+Venus is built using the following technologies:
      
      React.js, a JavaScript library for building user interfaces.
     

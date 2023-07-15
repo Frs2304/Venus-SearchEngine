@@ -13,7 +13,9 @@ Venus is a powerful search engine built with React.js that allows users to quick
 
 Venus is built using the following technologies:
      
-     React.js, a JavaScript library for building user interfaces.
+     Next.js
+     Tailwind CSS
+     TypeScript
     
 
 
